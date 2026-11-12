@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+<title id="t">NeuralForge — intelligence, engineered</title><desc id="d">Dark blue gradient hero with abstract neural nodes and turquoise violet connections.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07101f"/><stop offset="0.55" stop-color="#16213f"/><stop offset="1" stop-color="#24305c"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#24c4b9" stop-opacity="0.25"/><stop offset="1" stop-color="#24c4b9" stop-opacity="0"/></radialGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#21e6d1"/><stop offset="1" stop-color="#9280ff"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M 36 0 L 0 0 0 36" fill="none" stroke="#71809e" stroke-width="0.6" opacity="0.16"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="24" fill="url(#bg)"/><rect width="1200" height="300" rx="24" fill="url(#grid)"/><ellipse cx="930" cy="150" rx="340" ry="255" fill="url(#glow)"/>
+<path d="M860 80 960 54 1044 111 1120 64 M860 80 917 165 1044 111 1095 210 M917 165 1008 241 1095 210 1172 169 M960 54 1015 168 1120 64 M1015 168 1172 169" fill="none" stroke="url(#line)" opacity="0.48" stroke-width="2"/>
+<g fill="#25dbc6" stroke="#75fff0" stroke-width="2"><circle cx="860" cy="80" r="9"/><circle cx="917" cy="165" r="13"/><circle cx="1015" cy="168" r="8"/><circle cx="1120" cy="64" r="8"/></g>
+<g fill="#a995ff" stroke="#d2baff" stroke-width="2"><circle cx="960" cy="54" r="7"/><circle cx="1044" cy="111" r="11"/><circle cx="1095" cy="210" r="10"/><circle cx="1008" cy="241" r="7"/><circle cx="1172" cy="169" r="7"/></g>
+<text x="64" y="72" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="5" fill="#58decd">/ ENGINEERING INTELLIGENCE</text>
+<text x="62" y="158" font-family="Arial, Helvetica, sans-serif" font-size="67" font-weight="800" fill="#f5fbff">NEURAL<tspan fill="#5ce1cc">FORGE</tspan></text>
+<text x="66" y="206" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#b7c9e2">Intelligence, engineered.</text>
+<rect x="65" y="235" width="440" height="1" fill="#5ce1cc" opacity=".5"/>
+<text x="67" y="267" font-family="monospace" font-size="15" fill="#a7b6da">LLMs   /   AI AGENTS   /   EVALUATION   /   MLOPS</text>
+</svg>
